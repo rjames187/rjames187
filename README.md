@@ -1,3 +1,6 @@
+### Interests
+- Software Design and Architecture
+
 ### Programming Languages
 - Advanced JavaScript
 - Beginner TypeScript
