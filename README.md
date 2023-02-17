@@ -4,7 +4,7 @@
 ### Programming Languages
 - Advanced JavaScript
 - Beginner TypeScript
-- Advanced Python
+- Intermediate Python
 - Beginner Golang
 
 ### Markup Languages
