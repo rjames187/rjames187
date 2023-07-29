@@ -1,5 +1,3 @@
-### Interests
-- Software Design and Architecture
-- Distributed Services
+Interested in software architecture.
 
-Currently learning Golang
+Experienced in Node.js and Typescript and currently learning Golang.
