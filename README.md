@@ -1,3 +1,6 @@
-Interested in software architecture and distributed systems.
+# 👋 Hey there!
+My name is Rory and I like to build stuff.
 
-Experienced in Node.js and Typescript and currently learning Golang.
+Currently my favorite technologies to work with are Node.js, TypeScript, and Golang.
+
+
