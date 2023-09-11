@@ -1,6 +1,6 @@
 # 👋 Hey there!
 My name is Rory and I like to build stuff.
 
-Currently my favorite technologies to work with are Node.js, TypeScript, and Golang.
+Currently my favorite language to work with is Golang. I am also experienced with TypeScript and Node.js.
 
 
