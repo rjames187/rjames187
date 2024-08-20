@@ -1,4 +1,5 @@
-UT Austin student and software developer currently interning at PayPal
+UT Austin student and software developer
+Previous SWE Intern at PayPal
 
 Interested in distributed systems
 
